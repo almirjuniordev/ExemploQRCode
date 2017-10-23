@@ -34,7 +34,7 @@
       <HintPath>..\packages\iTextSharp.5.5.12\lib\itextsharp.dll</HintPath>
     </Reference>
     <Reference Include="MessagingToolkit.QRCode">
-      <HintPath>..\..\..\WebApplication1\MessagingToolkit.QRCode.dll</HintPath>
+      <HintPath>..\MessagingToolkit.QRCode.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
